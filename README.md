@@ -4,6 +4,8 @@ An Assignment that is given in the training
 ### **Test Coverage (100% excluding app and scene delegate)**
 ![image](https://github.com/Sumit4482/Bank_Assignment-OOP-/assets/61246873/5dadc4d8-4d37-4388-b971-5bfc1c84d473)
 
+### **Diagram**
+![image](https://github.com/Sumit4482/Bank_Assignment-OOP-/assets/61246873/efcf29e1-d7e7-4911-b3c8-6e8bd842baff)
 
 ### **Objective**
 
